@@ -1,6 +1,6 @@
 cask "miqipet" do
-  version "0.1.19"
-  sha256 "e31b74215cc5d5829cabcc9435c2e34319803d0df2fb04960907730ccb0720ac"
+  version "0.1.20"
+  sha256 "230289fd128f77ded50079d0681b7a6ad6a0bbf34832196c99b48846e3854bc3"
 
   url "https://dl.miqi.dev/releases/#{version}/MiqiPet-#{version}-mac-arm64.dmg"
   name "MiqiPet"
